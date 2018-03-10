@@ -1,2 +1,2 @@
 # sample_code
-this repo contain code sample
+this is toy sample code
